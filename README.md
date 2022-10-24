@@ -5,4 +5,4 @@ Features -
 3) It can perform all basic operations.
 
 
-![Calculator-Screenshot.png](app/src/main/iOS calc.png)
+[![Calculator-Screenshot.png](https://github.com/MusaRayy/iOS-style-Android-Calculator/blob/main/iOS%20calc.png)](https://github.com/MusaRayy/iOS-style-Android-Calculator/blob/main/iOS%20calc.png)
