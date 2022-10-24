@@ -1,7 +1,8 @@
 # Elegant_Calculator
 Features - 
-1) Responsive UI.
-2) It can perform all basic operations.
-3) IOS like UI.
+1) Let's make iOS style attractive in Android Java
+2) iOS style Responsive UI.
+3) It can perform all basic operations.
 
-[![Calculator-Screenshot.png](https://i.postimg.cc/nzqysW22/Calculator-Screenshot.png)](https://postimg.cc/phXG4qg5)
+
+![Calculator-Screenshot.png](app/src/main/iOS calc.png)
